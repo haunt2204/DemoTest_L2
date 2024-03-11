@@ -1,5 +1,7 @@
 Nguyen Van A
-Ngay sinh
 
 cin >> a;
 cin >> b;
+
+cout << a;
+cout << b;//BUG
