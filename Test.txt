@@ -1,7 +1,0 @@
-Nguyen Van A
-
-cin >> a;
-cin >> b;
-
-cout << a;
-cout << b;//BUG
